@@ -1,4 +1,4 @@
-* [首页](README.md)
+* [首页](main.md)
 * [系统管理](system.md)
   * [业务线](line.md)
   * [场景](scene.md)
