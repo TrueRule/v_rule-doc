@@ -5,7 +5,7 @@
   * [冠军挑战者](champion.md)
   * [用户](user.md)
   * [业务线权限](line_permission.md)
-  * [操作权限](operate_permission.md)
+  * [用户操作权限](operate_permission.md)
 * [数据管理](data.md)
   * [数据源](data_source.md)
   * [数据源分类](data_category.md)
