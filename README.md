@@ -89,4 +89,4 @@
 #### 作者
 [vgbhfive](https://blog.vgbhfive.com)
 
-vgbhfive#foxmail.com（#替换为@）
+vgbhfive@foxmail.com

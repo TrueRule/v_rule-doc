@@ -1,1 +1,1 @@
-data_category_card
+该功能暂不支持，请期待稍后版本更新。
