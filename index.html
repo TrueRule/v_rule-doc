@@ -31,7 +31,13 @@
         fontsize: '0.9em',
         color: 'rgb(90,90,90)',
         language: 'chinese'
-      }
+      },
+      pagination: {
+        previousText: '上一页',
+        nextText: '下一页',
+        crossChapter: true, // 开启跨章节切换
+        crossChapterText: true, // 包含章节名
+      },
     }
   </script>
   
@@ -40,5 +46,9 @@
   <script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify-count/dist/countable.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+  <!-- 分页插件的 CSS (可选，用于美化) -->
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.css">
+  <!-- 分页插件 JS -->
+  <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
 </body>
 </html>

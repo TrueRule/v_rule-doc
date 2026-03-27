@@ -13,7 +13,7 @@
 ![line_list](./images/line_list.png)
 
 #### 新增
-<img src="./images/line_insert.png" width="50%" heigh="50%" />
+<img src="./images/line_create.png" width="50%" heigh="50%" />
 
 #### 修改
 在修改操作中，已配置完成的业务线名称和业务线编码不可修改。<br>
