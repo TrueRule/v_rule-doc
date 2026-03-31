@@ -43,3 +43,11 @@
 
 #### 详情
 <img src="./images/rule_set_info.png" width="50%" heigh="50%" />
+
+<hr>
+
+#### 示例
+1. `A` 拒绝并且 `B` 拒绝时，最终结果才会拒绝，该如何配置？<br>
+	 - 联合条件：`OR`
+	 - 阈值：`Reject`
+	 - 结果：`Reject`
