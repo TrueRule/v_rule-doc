@@ -13,6 +13,7 @@
     * [HTTP](data_category_http.md)
     * [决策集](data_category_decision.md)
     * [评分卡](data_category_card.md)
+    * [数据源加工](data_category_derive.md)
     * [自定义 HTTP](data_category_custom_http.md)
 * 策略
   * [规则](rule.md)
@@ -22,11 +23,11 @@
   * [分流器](divide.md)
 * 产品
   * [额度](limit.md)
+  * [动态额度](dynamic_limit.md)
   * [利率](interest.md)
   * [账期](period.md)
-  * [自定义](custom.md)
-  * [动态额度](dynamic_limit.md)
   * [动态账期](dynamic_period.md)
+  * [自定义](custom.md)
 * [部署](deploy.md)
 * [DAG](dag.md)
 * 指标监控
